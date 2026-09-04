@@ -1,1 +1,1 @@
-print("ПРИВЕТ МИР");
+print("Hello");
