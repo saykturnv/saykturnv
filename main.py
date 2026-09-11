@@ -1,1 +1,10 @@
-print("Hello World");
+{
+    "Print to console": {
+        "prefix": "main",
+        "body": [
+            "if __name__ == '__main__':",
+            "    $0"
+        ],
+        "description": "Create main block"
+    }
+}
